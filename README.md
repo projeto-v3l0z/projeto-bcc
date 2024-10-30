@@ -1,2 +1,5 @@
 # projeto-bcc
- projeto de treinamento em django
+Comandos para executar o projeto (windows):
+- python -m venv venv  
+- venv/Scripts/activate
+- pip install -r requirements.txt  
